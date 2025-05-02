@@ -8,27 +8,27 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "27942404",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "27aec80c9bf45e866e5b7b33cb39fb0f",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "7118132307:AAHlJUczOhHy1hFzHAL576-0d4vWYJp3g1c",
       "required": true
     },
     "MONGO_DB": {
       "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-      "value": "your_mongodb_url_here",
+      "value": "https://cloud.mongodb.com/v2/66e3b2a4ef82c41a5504b0b3#/clusters",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "owner_user_id_here",
+      "value": "7534723821",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
